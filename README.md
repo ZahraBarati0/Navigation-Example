@@ -36,6 +36,7 @@ npm run dev
 ```
 
 ### 🗂 Project Structure
+```
 src/
 ├─ components/
 │  ├─ Navbar.jsx
@@ -49,6 +50,7 @@ src/
 ├─ App.jsx
 ├─ App.css
 └─ main.jsx
+```
 
 ---
 
